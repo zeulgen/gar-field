@@ -1,0 +1,37 @@
+.banner {
+    background-color: blueviolet;
+    color: white ;
+    margin-top: 0px;
+    text-align: center;
+    padding: 100px 0;
+
+} 
+#smallbaby {
+    height: 100px;
+    width: 100px;
+}
+
+#garfield {
+    color: blueviolet;
+    font-size: 100px;
+} 
+
+.bold {
+    font-weight: 900;
+}
+
+header ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 25px;
+}
+
+header ul li a{
+text-decoration: none;
+color:blueviolet;
+}
+
+.garf{
+    color: black;
+}
+
